@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestJDBC",
+            "request": "launch",
+            "mainClass": "agentie.cfr.test.TestJDBC",
+            "projectName": "agentie-cfr"
+        },
+        {
+            "type": "java",
+            "name": "Ruleaza AgentieCFR",
+            "request": "launch",
+            "mainClass": "agentie.cfr.AgentieCFR",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

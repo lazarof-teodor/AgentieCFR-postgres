@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# Configurare locala baza de date (contine parola)
+db.properties
+
+# VS Code (setari personale)
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Sistem
+.DS_Store
+Thumbs.db
